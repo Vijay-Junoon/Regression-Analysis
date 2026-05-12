@@ -25,4 +25,14 @@
 - Learnt the concept of degree (`x²`, `x³`, `x⁴`, etc.) and its impact on model fitting  
 - Visualized Polynomial Regression using graphs and compared it with Linear Regression  
 - Learnt about underfitting and overfitting in Polynomial Regression  
-- Used a sample dataset and `PolynomialFeatures()` along with `LinearRegression()` from sklearn to perform regression analysis  
+- Used a sample dataset and `PolynomialFeatures()` along with `LinearRegression()` from sklearn to perform regression analysis
+
+### Support Vector Regression (SVR)
+- Learnt what is Support Vector Regression (SVR)  
+- Understood the concept of support vectors and margin in SVR  
+- Learnt how SVR fits data within an acceptable error boundary (`epsilon margin`)  
+- Understood the importance of feature scaling using `StandardScaler()` before training an SVR model  
+- Learnt about different kernels used in SVR — Linear, Polynomial, and Radial Basis Function (RBF)  
+- Visualized SVR predictions and compared them with actual data points  
+- Used a dataset and `SVR()` from sklearn to perform regression analysis  
+- Evaluated model performance using metrics such as **R² Score**, **Mean Absolute Error (MAE)**, and **Mean Squared Error (MSE)**  
