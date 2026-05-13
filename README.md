@@ -47,3 +47,14 @@
 - Used a simple dataset and `DecisionTreeRegressor()` method in sklearn to perform regression analysis  
 - Learnt the importance of feature scaling (usually not required for Decision Trees)  
 - Compared Decision Tree Regression with Simple Linear Regression for non-linear data handling  
+
+### Random Forest Regression  
+- Learnt what is Random Forest Regression  
+- Understood how Random Forest combines multiple Decision Trees to improve prediction accuracy  
+- Learnt the concept of ensemble learning and bagging technique  
+- Understood how Random Forest reduces overfitting compared to a single Decision Tree  
+- Learnt how predictions are made by averaging outputs from multiple trees  
+- Visualized prediction results and understood non-linear regression behavior  
+- Used a simple dataset and `RandomForestRegressor()` method in sklearn to perform regression analysis  
+- Learnt the importance of tuning parameters like `n_estimators` and `random_state`  
+- Compared Random Forest Regression with Decision Tree Regression for better generalization  
