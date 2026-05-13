@@ -35,4 +35,15 @@
 - Learnt about different kernels used in SVR — Linear, Polynomial, and Radial Basis Function (RBF)  
 - Visualized SVR predictions and compared them with actual data points  
 - Used a dataset and `SVR()` from sklearn to perform regression analysis  
-- Evaluated model performance using metrics such as **R² Score**, **Mean Absolute Error (MAE)**, and **Mean Squared Error (MSE)**  
+- Evaluated model performance using metrics such as **R² Score**, **Mean Absolute Error (MAE)**, and **Mean Squared Error (MSE)**
+
+## Day - 03  
+### Decision Tree Regression  
+- Learnt what is Decision Tree Regression  
+- Understood how Decision Tree Regression splits data into regions based on conditions  
+- Learnt how predictions are made using the average value in leaf nodes  
+- Understood overfitting in Decision Tree Regression and the importance of controlling tree depth  
+- Visualized the non-linear relationship and step-like prediction graph of Decision Tree Regression  
+- Used a simple dataset and `DecisionTreeRegressor()` method in sklearn to perform regression analysis  
+- Learnt the importance of feature scaling (usually not required for Decision Trees)  
+- Compared Decision Tree Regression with Simple Linear Regression for non-linear data handling  
